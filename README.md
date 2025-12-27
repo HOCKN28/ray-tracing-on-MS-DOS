@@ -64,7 +64,3 @@ tcc ray.c
 1. Mount a directory containing the EXE
 2. Set CPU cycles appropriately (start with 30000, adjust)
 3. Run: `ray.exe`
-
----
-
-**Note**: Screenshots in the gallery were captured from DOSBox running this ray tracer. Actual performance and appearance may vary on real hardware.
