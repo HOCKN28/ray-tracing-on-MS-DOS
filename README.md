@@ -52,13 +52,13 @@ tcc ray.c
 
 ## Gallery
 
-!(gallery/ray2_000.png)
-!(gallery/ray3_000.png)
-!(gallery/ray3_001.png)
-!(gallery/ray3_002.png)
-!(gallery/ray3_003.png)
-!(gallery/ray3_004.png)
-!(gallery/ray3_005.png)
+![example1](gallery/ray2_000.png)
+![example2](gallery/ray3_000.png)
+![example3](gallery/ray3_001.png)
+![example4](gallery/ray3_002.png)
+![example5](gallery/ray3_003.png)
+![example6](gallery/ray3_004.png)
+![example7](gallery/ray3_005.png)
 
 ### DOSBox (Recommended)
 1. Mount a directory containing the EXE
