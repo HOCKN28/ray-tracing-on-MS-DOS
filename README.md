@@ -63,7 +63,7 @@ tcc ray.c
 ### DOSBox (Recommended)
 1. Mount a directory containing the EXE
 2. Set CPU cycles appropriately (start with 30000, adjust)
-3. Run: `ray3.exe`
+3. Run: `ray.exe`
 
 ---
 
