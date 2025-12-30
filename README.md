@@ -1,6 +1,6 @@
 # Real-Time Ray Tracer for MS-DOS
 
-A real-time interactive ray tracer for MS-DOS that runs on 386+ PCs with FPU. Experience real-time ray tracing on hardware from the 1990s with reflections, shadows, and specular highlights.
+A real-time interactive ray tracer for MS-DOS that runs on Pentium III PCs with FPU. Experience real-time ray tracing on hardware from the 1990s with reflections, shadows, and specular highlights.
 
 ## Overview
 
@@ -23,7 +23,7 @@ This is a pure software ray tracer written in C for MS-DOS that implements:
 
 ## Technical Details
 
-- **Platform**: MS-DOS, 386+ CPU with FPU (387/487)
+- **Platform**: MS-DOS, Pentium III
 - **Graphics**: VGA Mode 0x13 (320x200, 256 colors)
 - **Compiler**: Turbo C++ 3.0 or compatible
 - **Memory**: Uses far pointers for VRAM access
@@ -52,6 +52,8 @@ tcc ray.c
 
 ## Gallery
 
+Screenshots from version 0.1:
+
 ![example1](gallery/ray2_000.png)
 ![example2](gallery/ray3_000.png)
 ![example3](gallery/ray3_001.png)
@@ -59,6 +61,10 @@ tcc ray.c
 ![example5](gallery/ray3_003.png)
 ![example6](gallery/ray3_004.png)
 ![example7](gallery/ray3_005.png)
+
+Screenshots from the latest pre-version:
+
+![example8](gallery/ray3_006.png)
 
 ### DOSBox (Recommended)
 1. Mount a directory containing the EXE
